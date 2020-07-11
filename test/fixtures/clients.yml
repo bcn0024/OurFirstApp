@@ -1,0 +1,55 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  prefecture: MyString
+  city: MyString
+  ward: MyString
+  tel: MyString
+  opentime: 1
+  mon_open: 2020-07-04 09:38:29
+  mon_close: 2020-07-04 09:38:29
+  tue_open: 2020-07-04 09:38:29
+  tue: 
+  wed_open: 2020-07-04 09:38:29
+  wed_close: 2020-07-04 09:38:29
+  thu_open: 2020-07-04 09:38:29
+  thu_close: 
+  fri_open: 2020-07-04 09:38:29
+  fri_close: 2020-07-04 09:38:29
+  sat_open: 2020-07-04 09:38:29
+  sat_close: 2020-07-04 09:38:29
+  sun_open: 2020-07-04 09:38:29
+  sun_close: 2020-07-04 09:38:29
+  image: MyString
+  photo_id: 1
+  concept: MyString
+  description: MyString
+  sellspoint: MyString
+
+two:
+  name: MyString
+  prefecture: MyString
+  city: MyString
+  ward: MyString
+  tel: MyString
+  opentime: 1
+  mon_open: 2020-07-04 09:38:29
+  mon_close: 2020-07-04 09:38:29
+  tue_open: 2020-07-04 09:38:29
+  tue: 
+  wed_open: 2020-07-04 09:38:29
+  wed_close: 2020-07-04 09:38:29
+  thu_open: 2020-07-04 09:38:29
+  thu_close: 
+  fri_open: 2020-07-04 09:38:29
+  fri_close: 2020-07-04 09:38:29
+  sat_open: 2020-07-04 09:38:29
+  sat_close: 2020-07-04 09:38:29
+  sun_open: 2020-07-04 09:38:29
+  sun_close: 2020-07-04 09:38:29
+  image: MyString
+  photo_id: 1
+  concept: MyString
+  description: MyString
+  sellspoint: MyString

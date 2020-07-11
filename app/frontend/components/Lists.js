@@ -6,7 +6,6 @@ export default class Lists extends React.Component {
     super(props)
     this.state = {
       lists: []
-      // lists:[{"id":1,"title":"title_8230b261","desc":"desc_37bfa7dd","created_at":"2020-06-13T09:05:55.000Z","updated_at":"2020-06-13T09:05:55.000Z"},{"id":2,"title":"title_44bdd75f","desc":"desc_abc3a52a","created_at":"2020-06-13T09:05:55.000Z","updated_at":"2020-06-13T09:05:55.000Z"},{"id":3,"title":"title_fd798659","desc":"desc_eee32c7a","created_at":"2020-06-13T09:05:55.000Z","updated_at":"2020-06-13T09:05:55.000Z"},{"id":4,"title":"title_ae7971d4","desc":"desc_a61a30c4","created_at":"2020-06-13T09:05:55.000Z","updated_at":"2020-06-13T09:05:55.000Z"},{"id":5,"title":"title_f07cb4f1","desc":"desc_f6b7cdd3","created_at":"2020-06-13T09:05:55.000Z","updated_at":"2020-06-13T09:05:55.000Z"}]
     };
   }
   componentDidMount(){
