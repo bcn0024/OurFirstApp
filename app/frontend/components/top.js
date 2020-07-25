@@ -2,6 +2,6 @@ import React from 'react'
 
 export default function A () {
     return (
-        <div>変更が反映した場合は</div>
+        <div>ローカルで変更します</div>
     )
 }
